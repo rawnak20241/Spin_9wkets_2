@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to append URL parameters to the claim URL
     function getClaimUrl() {
-        const baseUrl = 'https://ag.9wkets.com/affilate/?referal_code=1000005852';
+        const baseUrl = 'https://9wkets.com/#/?creation_code=1000006419';
         const params = getUrlParams();
         // If there are parameters, append them to the base URL
         if (params) {
