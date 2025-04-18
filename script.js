@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to append URL parameters to the claim URL
     function getClaimUrl() {
-        const baseUrl = 'https://9wkets.com/#/?creation_code=1000006419';
+        const baseUrl = 'https://m.me/115676908294496?source=qr_link_share';
         const params = getUrlParams();
         // If there are parameters, append them to the base URL
         if (params) {
